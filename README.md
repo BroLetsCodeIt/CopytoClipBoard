@@ -136,3 +136,5 @@ jQuery(document).ready(($) => {
 
 
 ```
+---
+![image](https://github.com/BroLetsCodeIt/CopytoClipBoard/assets/113767803/5d974a3a-e82c-4d11-8426-b05a0b847422)
