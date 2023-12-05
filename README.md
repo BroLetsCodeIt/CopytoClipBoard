@@ -129,7 +129,7 @@ jQuery(document).ready(($) => {
         removing();
       });
     } else {
-      alert("wrong");
+      alert("Does not having ClipBoard");
     }
   });
 });
